@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CreatedFromMeetingId__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Set meeting template Id to copy information from.</description>
+    <externalId>false</externalId>
+    <label>Meeting Template</label>
+    <referenceTo>Meeting__c</referenceTo>
+    <relationshipLabel>Meetings Created from Template</relationshipLabel>
+    <relationshipName>MeetingOfTemplate</relationshipName>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

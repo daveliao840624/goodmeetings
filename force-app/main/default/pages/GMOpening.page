@@ -1,0 +1,30 @@
+<apex:page showHeader="false" controller="VFLoginFlowController">
+   <!-- Begin Default Content REMOVE THIS -->
+<br>
+    <Center>
+        <font face="Arial" size="+6" color="#000080">
+            Welcome
+        </font>
+    </Center>
+</br>
+<H3>
+    <font face="Arial" size="+3" color="#000080">
+        This software application was designed according to "Design Science" methodology as the final job of Mastering degree course at Universidade Federal do Rio de Janeiro.<br></br>
+        The main idea is supply the industry with a powerfull tool capable to manage meetings and Knowledge produced by the meetings.<br></br>
+        It's under constant evolution and there are some features not developed yet, so considered "Work In Progress". Among then we can say:<br></br>
+        <OL>
+           <LI> Integrate to Google Agenda and Microsoft Outlook </LI>
+           <LI> Generate key-words for each meeting participant, according to minutes written text, using Natural Language Processing. </LI>
+        </OL>
+    </font>
+</H3>
+   <apex:form >
+      <p align="right">
+         <font face="Arial" size="+3" color="#000080">
+            <br></br><br></br><br></br>
+            <apex:commandButton action="{!FinishLoginFlowHome}" value=" Home "/>
+            <apex:commandButton action="{!FinishLoginFlowStartUrl}" value=" Meeting "/>
+         </font>
+      </p>
+   </apex:form>
+</apex:page>

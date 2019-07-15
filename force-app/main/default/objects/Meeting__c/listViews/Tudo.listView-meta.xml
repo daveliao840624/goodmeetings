@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tudo</fullName>
+    <columns>OBJECT_ID</columns>
+    <columns>NAME</columns>
+    <columns>Title__c</columns>
+    <columns>Description__c</columns>
+    <columns>DateTime__c</columns>
+    <columns>MeetingType__c</columns>
+    <columns>Frequency__c</columns>
+    <columns>ProjectId__c</columns>
+    <columns>CREATED_DATE</columns>
+    <filterScope>Mine</filterScope>
+    <label>Tudo</label>
+    <language>en_US</language>
+</ListView>

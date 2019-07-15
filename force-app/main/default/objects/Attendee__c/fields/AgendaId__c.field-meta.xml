@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AgendaId__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Indicates where it comes from</description>
+    <externalId>false</externalId>
+    <label>Agenda</label>
+    <lookupFilter>
+        <active>true</active>
+        <filterItems>
+            <field>Agenda__c.MeetingId__c</field>
+            <operation>equals</operation>
+            <valueField>$Source.MeetingId__c</valueField>
+        </filterItems>
+        <isOptional>false</isOptional>
+    </lookupFilter>
+    <referenceTo>Agenda__c</referenceTo>
+    <relationshipLabel>Attendee Of Agenda</relationshipLabel>
+    <relationshipName>AttendeeOfAgenda</relationshipName>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

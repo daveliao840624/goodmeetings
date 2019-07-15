@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Skill__c</fullName>
+    <description>Skill related to Knowledge Area</description>
+    <externalId>false</externalId>
+    <label>Skill</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>KnowledgeArea__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetName>Skill</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>Information Systems</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Business Plan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Systems</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Negotiation</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Business Presentation</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Systems</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Business Rules</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Systems</controllingFieldValue>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <controllingFieldValue>Computer Engineering</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Class Diagram</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Systems</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Compliance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Systems</controllingFieldValue>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <controllingFieldValue>Computer Engineering</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Data Model</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Systems</controllingFieldValue>
+            <controllingFieldValue>Computer Engineering</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Entity-Relationship Model</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Systems</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Industry</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Process Mapping</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <valueName>Development</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <valueName>Object Oriented Analysis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <valueName>Object Oriented Programming</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>State Change Diagram</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>System Requirements</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <valueName>Systems Analysis</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>UML</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Information Technology</controllingFieldValue>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Use Case</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <valueName>Academic Presentation</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>BPM</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>BPMN</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Governance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Negotiation</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <controllingFieldValue>Accounting</controllingFieldValue>
+            <valueName>Management Accounting</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Negotiation</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Management Theories</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Aeronautics</controllingFieldValue>
+            <controllingFieldValue>Aerospace</controllingFieldValue>
+            <controllingFieldValue>Aviation</controllingFieldValue>
+            <valueName>Plane Building</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Aeronautics</controllingFieldValue>
+            <controllingFieldValue>Aerospace</controllingFieldValue>
+            <controllingFieldValue>Aviation</controllingFieldValue>
+            <valueName>Plane Crashing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Industry</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>PMI</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>PMI Knowledge Areas</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Industry</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Project Management</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Industry</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Quality Control</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Six Sigma</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <controllingFieldValue>Administration</controllingFieldValue>
+            <controllingFieldValue>Tecnology</controllingFieldValue>
+            <valueName>Standards</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <valueName>Thesis Defense</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Academy/University</controllingFieldValue>
+            <valueName>WBS</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fundraising</controllingFieldValue>
+            <valueName>Digital Media Strategies</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fundraising</controllingFieldValue>
+            <valueName>Face-to-Face Approach</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fundraising</controllingFieldValue>
+            <valueName>Lead Acquisition</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Fundraising</controllingFieldValue>
+            <valueName>Voice-to-Voice Approach</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MeetingType__c</fullName>
+    <externalId>false</externalId>
+    <label>Meeting Type</label>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Consultative</fullName>
+                <default>false</default>
+                <label>Consultative</label>
+            </value>
+            <value>
+                <fullName>Definition</fullName>
+                <default>false</default>
+                <label>Definition</label>
+            </value>
+            <value>
+                <fullName>Deliberative</fullName>
+                <default>false</default>
+                <label>Deliberative</label>
+            </value>
+            <value>
+                <fullName>Expository</fullName>
+                <default>false</default>
+                <label>Expository</label>
+            </value>
+            <value>
+                <fullName>Information</fullName>
+                <default>false</default>
+                <label>Information</label>
+            </value>
+            <value>
+                <fullName>Not defined</fullName>
+                <default>false</default>
+                <label>Not defined</label>
+            </value>
+            <value>
+                <fullName>Work</fullName>
+                <default>false</default>
+                <label>Work</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>3</visibleLines>
+</CustomField>

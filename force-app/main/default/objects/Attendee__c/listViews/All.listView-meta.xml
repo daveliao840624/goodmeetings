@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>UPDATEDBY_USER</columns>
+    <columns>NAME</columns>
+    <columns>MeetingId__c</columns>
+    <columns>AgendaId__c</columns>
+    <columns>EmployeeId__c</columns>
+    <columns>ContactId__c</columns>
+    <columns>SupContactId__c</columns>
+    <columns>InviteeId__c</columns>
+    <columns>JoinedBy__c</columns>
+    <columns>KeyWords__c</columns>
+    <columns>HasConfirmed__c</columns>
+    <columns>IsTemplate__c</columns>
+    <columns>StatusEmail__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+    <language>pt_BR</language>
+</ListView>

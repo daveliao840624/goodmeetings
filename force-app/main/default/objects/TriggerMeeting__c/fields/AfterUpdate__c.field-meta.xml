@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AfterUpdate__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Indicates Whether Meeting trigger should fire after update or not.</description>
+    <externalId>false</externalId>
+    <label>After Update</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
