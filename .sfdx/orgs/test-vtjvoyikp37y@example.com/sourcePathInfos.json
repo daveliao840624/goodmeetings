@@ -32,14 +32,14 @@
     [
         "/home/dave/gitWorkspace/goodmeetings/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1563227767124,
             "changeTime": 1563227767124,
-            "contentHash": "aee61e4e0025f2ecb9eddfb96dd8199ace8ecb33"
+            "contentHash": "aee61e4e0025f2ecb9eddfb96dd8199ace8ecb33",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -60,16 +60,15 @@
     [
         "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/applications/GoodMeetings.app-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/applications/GoodMeetings.app-meta.xml",
             "isDirectory": false,
-            "size": 1013,
-            "modifiedTime": 1563222665019,
-            "changeTime": 1563222665019,
-            "contentHash": "00d394adf81344ba75b6752d4a818437fa01e411",
             "isMetadataFile": true,
-            "state": "u",
+            "size": 981,
+            "modifiedTime": 1563226437193,
+            "changeTime": 1563226437193,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "7453ec53fe4bafb88427a83af457a95bc2338ccf"
         }
     ],
     [
@@ -90,16 +89,15 @@
     [
         "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1563222665043,
-            "changeTime": 1563222665043,
-            "contentHash": "f090a4c9b5a57b45e931ead6022eece8d62d5db2",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 4096,
+            "modifiedTime": 1563305723689,
+            "changeTime": 1563305723689,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "3230ce4d33022423b030f496ae7482ea66aaf314"
         }
     ],
     [
@@ -753,7 +751,7 @@
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/documents/GlobalDocuments",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1563222665299,
+            "modifiedTime": 1563305194840,
             "changeTime": 1563222665299,
             "contentHash": "f385041a7f38fb8306a5babaef89b4425391f34e",
             "isMetadataFile": false,
@@ -783,7 +781,7 @@
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/documents/GlobalDocuments/gmIcon.jpg",
             "isDirectory": false,
             "size": 12621,
-            "modifiedTime": 1563222665299,
+            "modifiedTime": 1563305194836,
             "changeTime": 1563222665299,
             "contentHash": "ffa0fd0a1b17a69cacba3ae000e9d29255e05503",
             "isMetadataFile": false,
@@ -813,7 +811,7 @@
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/documents/GlobalDocuments/gmIconMistral28.jpg",
             "isDirectory": false,
             "size": 6377,
-            "modifiedTime": 1563222665299,
+            "modifiedTime": 1563305194840,
             "changeTime": 1563222665299,
             "contentHash": "78e0391af35179ba3423cd242ea357fa42a66d74",
             "isMetadataFile": false,
@@ -900,16 +898,15 @@
     [
         "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/layouts",
         {
+            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/layouts",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1563222665083,
-            "changeTime": 1563222665083,
-            "contentHash": "9dd0394b987e2aa0079511503a491ae94d606089",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 4096,
+            "modifiedTime": 1563305194588,
+            "changeTime": 1563305194588,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "fb558ff67d449ca0331e4df1661a244354d0b24a"
         }
     ],
     [
@@ -1170,16 +1167,15 @@
     [
         "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/lwc",
         {
+            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/lwc",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1563222098373,
-            "changeTime": 1563222098373,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 4096,
+            "modifiedTime": 1563294953958,
+            "changeTime": 1563294953958,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4"
         }
     ],
     [
@@ -4980,16 +4976,15 @@
     [
         "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1563222665295,
-            "changeTime": 1563222665295,
-            "contentHash": "858b3ab8ebc4b1b1e2b55677e1661284ceaee571",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 4096,
+            "modifiedTime": 1563226512701,
+            "changeTime": 1563226512701,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "8adbe409f4efbb2a6b1d79f9c7fbf6406b0e613c"
         }
     ],
     [
@@ -5430,42 +5425,80 @@
     [
         "/home/dave/gitWorkspace/goodmeetings",
         {
+            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1563222731431,
-            "changeTime": 1563222731431,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 4096,
+            "modifiedTime": 1563305356076,
+            "changeTime": 1563305356076,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "2b2ef6d014de0b025d17324f79c5a92e9275ffef"
         }
     ],
     [
         "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 49798,
             "modifiedTime": 1563227767140,
             "changeTime": 1563227767140,
-            "contentHash": "419fe77f918bd106895ec8f88b40f33a3f5c0a43"
+            "contentHash": "419fe77f918bd106895ec8f88b40f33a3f5c0a43",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1563227767140,
             "changeTime": 1563227767140,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/classes/dlTstClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/classes/dlTstClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 103,
+            "modifiedTime": 1563305802865,
+            "changeTime": 1563305802865,
+            "contentHash": "03cc0db8e3e52b185ed8954627290e05249c5513"
+        }
+    ],
+    [
+        "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/classes/dlTstClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/classes/dlTstClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1563305723689,
+            "changeTime": 1563305723689,
+            "contentHash": "4df6029134e201a2b33953330cbcff50ed4df78b"
+        }
+    ],
+    [
+        "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/layouts/Minutes__c-Layout de Ata de Reunião.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/dave/gitWorkspace/goodmeetings/force-app/main/default/layouts/Minutes__c-Layout de Ata de Reunião.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3769,
+            "modifiedTime": 1563305194588,
+            "changeTime": 1563305194588,
+            "contentHash": "5619ecbf580d3a20ef841f012c9e4c497181dc44"
         }
     ]
 ]
